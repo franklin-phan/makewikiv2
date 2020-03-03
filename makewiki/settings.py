@@ -29,7 +29,7 @@ ALLOWED_HOSTS = ['localhost', 'makewiki-fnp.herokuapp.com']
 
 
 # Application definition
-
+#hello
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
